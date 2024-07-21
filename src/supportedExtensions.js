@@ -30,7 +30,7 @@ module.exports = [
   '.jpg', '.jpeg', '.png', '.bmp', '.tif', '.tiff',
 
   // video files
-  '.mp4', '.avi', '.mov', '.wmv', '.flv', '.mkv', '.webm',
+  '.mp4', '.avi', '.mov', '.wmv', '.flv', '.mkv', '.webm', '.m4v',
 
   // handled separately in code
   '.pdf'
